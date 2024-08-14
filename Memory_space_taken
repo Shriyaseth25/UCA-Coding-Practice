@@ -22,3 +22,8 @@ int main() {
 
     return 0;
 }
+
+
+/* EXPLANATION OF CODE */
+// struct rusage is a data type in the library sys/resource.h
+// getrusage retrieves the resource usage info for the current process
